@@ -1,2 +1,3 @@
 # WorkBook
-## All samples of DevOps Master Workshop included here
+## All samples of DevOps Master Workshop for GIT is included here
+### 21-07-2020
